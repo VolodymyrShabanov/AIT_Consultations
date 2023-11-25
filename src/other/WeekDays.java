@@ -1,3 +1,5 @@
+package other;
+
 public class WeekDays {
     public static void main(String[] args) {
         // Объявляем массив

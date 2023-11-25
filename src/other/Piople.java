@@ -1,3 +1,5 @@
+package other;
+
 public class Piople {
     public static void main(String[] args) {
         int pop = 14_000_000;

@@ -1,3 +1,5 @@
+package other;
+
 public class NestedLoop {
     public static void main(String[] args) {
         figure1(6);

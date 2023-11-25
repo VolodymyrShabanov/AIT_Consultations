@@ -1,3 +1,5 @@
+package other;
+
 public class VariableAppl {
     public static void main(String[] args) {
         int a;
